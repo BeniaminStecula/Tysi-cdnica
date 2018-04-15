@@ -1,0 +1,7 @@
+B:\Moje\Programy napisane\Kurs C#\Kurs1ConHelloRozwiazanie\Kurs1ConHello\bin\Debug\Kurs1ConHello.exe.config
+B:\Moje\Programy napisane\Kurs C#\Kurs1ConHelloRozwiazanie\Kurs1ConHello\bin\Debug\Kurs1ConHello.exe
+B:\Moje\Programy napisane\Kurs C#\Kurs1ConHelloRozwiazanie\Kurs1ConHello\bin\Debug\Kurs1ConHello.pdb
+B:\Moje\Programy napisane\Kurs C#\Kurs1ConHelloRozwiazanie\Kurs1ConHello\obj\Debug\Kurs1ConHello.csprojResolveAssemblyReference.cache
+B:\Moje\Programy napisane\Kurs C#\Kurs1ConHelloRozwiazanie\Kurs1ConHello\obj\Debug\Kurs1ConHello.csproj.CoreCompileInputs.cache
+B:\Moje\Programy napisane\Kurs C#\Kurs1ConHelloRozwiazanie\Kurs1ConHello\obj\Debug\Kurs1ConHello.exe
+B:\Moje\Programy napisane\Kurs C#\Kurs1ConHelloRozwiazanie\Kurs1ConHello\obj\Debug\Kurs1ConHello.pdb
